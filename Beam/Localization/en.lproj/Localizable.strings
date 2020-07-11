@@ -463,7 +463,7 @@
 "background-refresh-unavailable" = "Messages notifications aren't working because background app refresh has been disabled for Beam.";
 
 /* Required login */
-"general-login-required" = "Login required";
+"general-login-required" = "Login wanted";
 
 "general-login-required-message" = "Login to perform this action";
 
