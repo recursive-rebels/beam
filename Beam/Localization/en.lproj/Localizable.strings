@@ -1535,7 +1535,7 @@
 "delete-comment-error-message" = "An error occured while deleting the comment, please try again if the comment is still visible.";
 
 /* Message before deleting an image or album of imgur */
-"are-you-sure-delete-imgur-album" = "Are you sure you want to permanently delete this album?";
+"are-you-sure-delete-imgur-album" = "Are you sure you want to permanently delete this album???";
 
 /* Message before deleting an image or album of imgur */
 "are-you-sure-delete-imgur-image" = "Are you sure you want to permanently delete this image?";
